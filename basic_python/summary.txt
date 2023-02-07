@@ -1,0 +1,4 @@
+1.Learnt how to create Git account.
+2.Learnt about various commands to add to local directory and Push, Pull,Clone commands.
+3.Able to create a branch through gitbash.
+4.Learnt how to push to github
